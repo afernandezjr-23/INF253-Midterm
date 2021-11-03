@@ -4,11 +4,10 @@ h1 {
   text-align: center;
 }
 p {
-  background: #FAF9F6;
+  text-decoration-color: : #FAF9F6;
   text-align: center;
   line-height: 1.25;
   margin-bottom: 1.25em;
-  text size: auto;
 }
 
 figure {
