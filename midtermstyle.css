@@ -1,0 +1,29 @@
+h1 {
+  color: #AEC6CF;
+  font-family: verdana;
+  text-align: center;
+}
+p {
+  background: #AEC6CF;
+  text-align: center;
+  line-height: 1.25;
+  margin-bottom: 1.25em;
+}
+
+figure {
+  border: 4px solid black;
+  padding: 12px;
+  bottom padding: 24px;
+}
+
+figure img {
+  width: 25%;
+  height: auto;
+}
+
+p img {
+  float: right;
+  max width: 60%;
+  margin left: 20px;
+  margin bottom: 32px;
+}
